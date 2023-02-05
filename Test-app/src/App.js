@@ -2,7 +2,6 @@ import About from "./Components/About";
 import Blog from "./Components/Blog";
 import Home from "./Components/Home";
 import Navbar from "./Components/Navbar";
-import Post from "./Post";
 import styled from 'styled-components'
 import Popular from "./Components/Popular";
 import Offers from "./Components/Offers";
