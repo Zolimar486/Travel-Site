@@ -12,7 +12,7 @@ export  const card= [
         id:"02",
         img:"https://images.pexels.com/photos/208589/pexels-photo-208589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         text:"Visit Denmark",
-        desc:"Travel to Denmark to discover some of our best destinations",
+        desc:"Travel to Denmark to discover the best destinations",
         title:"Denmark"
     },
 
@@ -52,7 +52,7 @@ export const blog =[
     {
         id:"3",
         img:"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9b/2f/f8/abends-in-danzig.jpg?w=700&h=500&s=1",
-        title:"Poland is one of the most attractive Destination",
+        title:"Poland is the most attractive Destination",
         desc:"Poland has many incredible historical destinations, including 16 UNESCO World Heritage "
 
     },

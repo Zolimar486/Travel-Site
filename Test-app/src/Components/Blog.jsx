@@ -59,6 +59,11 @@ const Desc= styled.p`
 font-size:13px;
 font-weight:500;
 color:#79797C;
+overflow:hidden;
+text-overflow:ellipsis;
+display:-webkit-box;
+-webkit-line-clamp:3;
+-webkit-box-orient:vertical;
 `
 
 const Button= styled.button`
