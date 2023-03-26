@@ -12,7 +12,7 @@ export  const card= [
         id:"02",
         img:"https://images.pexels.com/photos/208589/pexels-photo-208589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         text:"Visit Denmark",
-        desc:"Travel to Denmark to discover the best destinations",
+        desc:"Travel to Denmark to discover new destinations",
         title:"Denmark"
     },
 
